@@ -1,3 +1,11 @@
+A minimal and aesthetic music player built using **HTML, CSS, and JavaScript**.
+
+This project represents the **starting point of my renewed coding journey**, where I decided to go back to the fundamentals and rebuild my confidence in **logic, structure, and clean frontend development**. Instead of focusing on complexity, the goal was to understand how a real UI is structured and how JavaScript controls interaction and state.
+
+While building this project, I practiced core concepts such as DOM manipulation, event handling, UI responsiveness, and user-focused design. This music player is intentionally simple, calm, and distraction-free, reflecting my approach to learning **step by step with consistency**.
+
+This project is the first milestone in a series of small but meaningful projects that I will continue to build as I grow as a developer.
+
 ## 📸 Preview
 
 ### Desktop View
