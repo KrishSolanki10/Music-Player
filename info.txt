@@ -1,0 +1,18 @@
+Aura is a minimal and aesthetic music player built using pure HTML, CSS, and JavaScript.
+This project marks an important starting point (and restart) in my coding journey, where I decided to go back to the fundamentals and rebuild my confidence in logic, structure, and clean code without relying on frameworks.
+
+The goal of this project was not to create a complex or production-ready application, but to practice core frontend concepts such as semantic HTML structure, modular CSS styling, and JavaScript-based interactivity. While building Aura, I focused on understanding how things work internally—from DOM manipulation and event handling to managing application state for a simple music player.
+
+Aura features a clean, mood-based UI with a modern glassmorphism design, a central music player, track list interaction, and basic playback controls like play, pause, next, and previous. The project is designed to feel calm, focused, and distraction-free, reflecting my intention to learn step by step and build consistency rather than rush advanced topics.
+
+This project represents my commitment to:
+
+Rebuilding strong programming fundamentals
+
+Writing readable and maintainable code
+
+Understanding logic instead of copy-pasting solutions
+
+Growing gradually through small but meaningful projects
+
+Aura is the first milestone in a series of projects that I plan to build as I continue improving my problem-solving skills, frontend development knowledge, and overall confidence as a developer.
